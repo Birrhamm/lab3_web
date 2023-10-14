@@ -79,5 +79,18 @@
 
 ![Screenshot (193)](https://github.com/Birrhamm/lab3_web/assets/115520530/9bd214bf-6096-4162-aef7-3319e60cbf0c)
 
+# PERTANYAAN DAN TUGAS
 
-  
+1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+![Screenshot (194)](https://github.com/Birrhamm/lab3_web/assets/115520530/95891fff-30cb-4ad5-95aa-24c45906706b)
+
+![Screenshot (195)](https://github.com/Birrhamm/lab3_web/assets/115520530/a890f710-1444-48ed-8a6f-8604c2985e51)
+
+![Screenshot (196)](https://github.com/Birrhamm/lab3_web/assets/115520530/64f1c794-970b-4a6a-810a-5614c2e5f027)
+
+
+
+
+
+
